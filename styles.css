@@ -1,0 +1,28 @@
+* {
+    font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+    color: honeydew;
+}
+
+body {
+    background-color: mediumseagreen;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+    border: 5px solid #555;
+}
+
+.return {
+    font-weight: bold;
+    color: pink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
