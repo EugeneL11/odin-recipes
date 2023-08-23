@@ -1,10 +1,10 @@
 * {
-    font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
-    color: honeydew;
+    color: black;
 }
 
 body {
-    background-color: mediumseagreen;
+    font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+    background-color: #ccd5ae;
 }
 
 h1 {
@@ -12,17 +12,19 @@ h1 {
     font-weight: bold;
 }
 
+h1, h2, .return {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 400px;
-    height: auto;
-    border: 5px solid #555;
+    height: 300px;
+    width: auto;
+    border: 5px solid #d4a373;
 }
 
-.return {
-    font-weight: bold;
-    color: pink;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+.homepage {
+    text-align: center;
 }
